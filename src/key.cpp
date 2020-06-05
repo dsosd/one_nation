@@ -1,11 +1,10 @@
-#include "main.h"
+#include "key.h"
 
 namespace tul{
 namespace project{
 namespace on{
 
-int main(int argc, char** argv){
-}
+
 
 }
 }
